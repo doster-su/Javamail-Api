@@ -1,10 +1,10 @@
-# Javamail-Api
+# fork from Javamail-Api
+android implementation
 Send and Retrieve Emails using Javamail API.
 
 ## Getting Started
 ### What is Javamail API?
-The JavaMail is an API that is used to **compose, write and read** electronic messages (emails).
-The JavaMail API provides protocol-independent and plateform-independent framework for sending and receiving mails.
+
 The **javax.mail** and **javax.mail.activation** packages contains the core classes of JavaMail API.
 The JavaMail facility can be applied to many events. It can be used at the time of registering the user (sending notification such as thanks for your interest to my site), forgot password (sending password to the users email id), sending notifications for important updates etc. So there can be various usage of java mail api.
 
@@ -37,4 +37,4 @@ There are two packages that are used in Java Mail API: **javax.mail** and **java
 * One Email id with Password
 
 
-###### If you find any mistakes or bugs, please feel free to contact me at samritkamlesh@gmail.com
+###### doster
